@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d795449e5ced20c47bb390024f345825, type: 3}
+  m_Name: Weapon_Javelin
+  m_EditorClassIdentifier: 
+  id: 2
+  name: "\u6807\u67AA"
+  itemType: 0
+  description: "\u8FD9\u662F\u4E00\u628A\u65E0\u9650\u4F9B\u5E94\u7684\u6807\u67AA"
+  propertyList:
+  - PropertyType: 4
+    Value: 20
+  icon: {fileID: 21300000, guid: 316a6583595e52e47946a15533b8280f, type: 3}
+  prefab: {fileID: 5162798265109056162, guid: 6d2a314fd35f5a349bfd805cf368fe15, type: 3}
